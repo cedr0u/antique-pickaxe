@@ -1,0 +1,30 @@
+{
+  "group": "antique_pickaxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_block"
+    },
+    "1": {
+      "item": "minecraft:diamond_block"
+    },
+    "2": {
+      "item": "minecraft:diamond_block"
+    },
+    "4": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "antique_pickaxe:theantiquepickaxe",
+    "count": 1
+  }
+}

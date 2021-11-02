@@ -1,0 +1,30 @@
+{
+  "group": "antique_pickaxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    },
+    "1": {
+      "item": "minecraft:oak_log"
+    },
+    "2": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "antique_pickaxe:theantiquepickaxe",
+    "count": 1
+  }
+}
