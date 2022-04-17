@@ -1,3 +1,5 @@
+*je ne mettrai plus à jour le mod sur Github mais je continurai sur curse forge* [antique-pickaxe](https://www.curseforge.com/minecraft/mc-mods/antique-pickaxe "the antique pickaxe mod")
+
 # antique-pickaxe
 a pickaxe that evolves (minecraft mod) <br/>
 <br/>
