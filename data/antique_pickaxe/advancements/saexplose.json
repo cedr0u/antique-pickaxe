@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "title": {
+      "translate": "advancements.saexplose.title"
+    },
+    "description": {
+      "translate": "advancements.saexplose.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "saexplose": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "antique_pickaxe:jesensplusmamain"
+}
