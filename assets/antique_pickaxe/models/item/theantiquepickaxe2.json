@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "antique_pickaxe:items/pioche_lv_2"
+  }
+}
