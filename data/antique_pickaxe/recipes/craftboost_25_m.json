@@ -1,0 +1,42 @@
+{
+  "group": "antique_pickaxe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_block"
+    },
+    "1": {
+      "item": "antique_pickaxe:boost_500k"
+    },
+    "2": {
+      "item": "minecraft:lapis_block"
+    },
+    "3": {
+      "item": "antique_pickaxe:boost_500k"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "antique_pickaxe:boost_500k"
+    },
+    "6": {
+      "item": "minecraft:lapis_block"
+    },
+    "7": {
+      "item": "antique_pickaxe:boost_500k"
+    },
+    "8": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "antique_pickaxe:boost_25_m",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="antique_pickaxe"
+version="0.4"
+displayName="antique_pickaxe"
+credits="un mod avec une pioche !"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/antique-pickaxe"
+logoFile="logo.png"
+authors="cedrou"
+description='''
+antique_pickaxe_mod
+'''
+
+[[dependencies.antique_pickaxe]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
