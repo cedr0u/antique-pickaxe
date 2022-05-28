@@ -1,0 +1,10 @@
+{
+  "group": "justoreium",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 1000,
+  "ingredient": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "result": "antique_pickaxe:justoreium"
+}
