@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:purpur_block"
+    },
+    "title": {
+      "translate": "advancements.troisfoistroisneuf.title"
+    },
+    "description": {
+      "translate": "advancements.troisfoistroisneuf.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "troisfoistroisneuf": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "antique_pickaxe:jesensplusmamain"
+}
