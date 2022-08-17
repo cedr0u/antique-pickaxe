@@ -1,0 +1,7 @@
+{
+  "parent": "antique_pickaxe:custom/antique_pickaxe",
+  "textures": {
+    "0": "antique_pickaxe:blocks/pickaxe",
+    "particle": "antique_pickaxe:items/pioche_bois"
+  }
+}
