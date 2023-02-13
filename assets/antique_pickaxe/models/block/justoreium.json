@@ -3,6 +3,5 @@
   "textures": {
     "all": "antique_pickaxe:blocks/justoreium",
     "particle": "antique_pickaxe:blocks/justoreium"
-  },
-  "render_type": "solid"
+  }
 }

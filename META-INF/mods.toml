@@ -1,10 +1,10 @@
 modLoader="javafml"
-loaderVersion="[43,)"
+loaderVersion="[40,)"
 license="All Rights Reserved"
 
 [[mods]]
 modId="antique_pickaxe"
-version="0.9"
+version="0.9.1"
 displayName="antique_pickaxe"
 credits="un mod avec une pioche !"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/antique-pickaxe"
@@ -17,7 +17,7 @@ antique pickaxe mod (evolving pickaxe)
 [[dependencies.antique_pickaxe]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.19.2]"
+    versionRange="[1.18.2]"
     ordering="NONE"
     side="BOTH"
 
