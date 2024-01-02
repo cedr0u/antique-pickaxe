@@ -3,5 +3,7 @@
   "promos": {
     "1.19.4-latest": "0.9.1",
     "1.19.2-recommended": "0.9.1"
+    "1.20.1-recommended": "1.0.0"
+    "1.20.1-latesd": "1.0.0"
   }
 }
