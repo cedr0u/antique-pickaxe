@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "b": {
+      "item": "antique_pickaxe:boost_5k"
+    },
+    "c": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "antique_pickaxe:boost_25k",
+    "count": 1
+  }
+}

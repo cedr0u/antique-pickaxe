@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "antique_pickaxe:boost_1k"
+    },
+    "title": {
+      "translate": "advancements.justeunpetitcoupdepouce.title"
+    },
+    "description": {
+      "translate": "advancements.justeunpetitcoupdepouce.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "justeunpetitcoupdepouce": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "antique_pickaxe:boost_1k"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "antique_pickaxe:justeunesimplepioche"
+}

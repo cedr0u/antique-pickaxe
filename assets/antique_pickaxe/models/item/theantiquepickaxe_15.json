@@ -1,0 +1,7 @@
+{
+  "parent": "antique_pickaxe:custom/antique_pickaxe_lvl_15",
+  "textures": {
+    "1": "antique_pickaxe:block/antique_pickaxe_lvl_15",
+    "particle": "antique_pickaxe:item/pioche_bois"
+  }
+}

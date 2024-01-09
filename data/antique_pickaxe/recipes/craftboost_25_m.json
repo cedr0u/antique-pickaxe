@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lapis_block"
+    },
+    "b": {
+      "item": "antique_pickaxe:boost_500k"
+    },
+    "c": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "antique_pickaxe:boost_25_m",
+    "count": 1
+  }
+}

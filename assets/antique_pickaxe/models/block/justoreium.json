@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "antique_pickaxe:block/justoreium",
+    "particle": "antique_pickaxe:block/justoreium"
+  },
+  "render_type": "solid"
+}
